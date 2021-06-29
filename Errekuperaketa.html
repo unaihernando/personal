@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MENDI MARTXA ERREGISTROA</title>
+</head>
+<script>
+    function funtzioa() {
+        var izenabizen = document.getElementById("izen-abizenak").value;
+        var NAN = document.getElementById("nan").value;
+        var herria = document.getElementById("herria").value;
+        var oharra = document.getElementById("oharra").value;
+        var jaiotzadata = document.getElementById("jaiotzadata").value;
+        var probintzia = document.getElementById("probintzia");
+        var aukeratutakoTestua = probintzia.options[probintzia.selectedIndex].text;
+        var kamiseta = document.getElementsByName("kamiseta");
+        for (var i = 0; i < kamiseta.length; i++) {
+            if (kamiseta[i].checked) {
+                var aukeratutakoa = kamiseta[i].value;
+            }
+        }
+        var mendia = document.getElementsByName("mendia");
+        for (var i = 0; i < mendia.length; i++) {
+            if (mendia[i].checked) {
+                var aukeratutakoa3 = mendia[i].value;
+            }   
+        }
+
+       
+        var federatua = document.forms[0];
+        var txt = "";
+        for (var i = 0; i < federatua.length; i++) {
+            if (federatua[i].checked) {
+            txt = txt + federatua[i].value + "";
+    }
+  }
+
+        if ((NAN == "") || (jaiotzadata == "") || (aukeratutakoa3 == undefined)) {
+            alert("* dutenak derrigorrezkoak dira");
+            return false;
+        } else if (isNaN(jaiotzadata)) {
+            alert("Jaiotza urtea zenbakia izan behar da");
+        } else if (!konprobatuNAN(NAN)) {
+            alert("NAN ez da egokia");
+            return false;
+        } else if ((2020 - jaiotzadata) < 16) {
+            alert("Ezin duzu parte hartu");
+            return false;
+        }
+
+
+
+        var prezioa;
+        if (aukeratutakoa3 == "Mendi martxa") {
+            prezioa = "12";
+        } else {
+            prezioa = "20";
+        }
+        var iprezioa = parseInt(prezioa);
+        if ((2020 - jaiotzadata) >= 16 && (2020 - jaiotzadata) <= 18) {
+            iprezioa = iprezioa / 2;
+        } else {
+            iprezioa = iprezioa;
+        }
+        var preziototala;
+        var deskontua = 0;
+        if (txt == "Bai") {
+            preziototala = iprezioa - 5;
+            deskontua = 5;
+        } else {
+            preziototala = iprezioa;
+        }
+
+        document.getElementById("izenabizen2").innerHTML = document.getElementById("izen-abizenak").value;
+        document.getElementById("nan2").innerHTML = document.getElementById("nan").value;
+        document.getElementById("herria2").innerHTML = document.getElementById("herria").value;
+        document.getElementById("oharra2").innerHTML = document.getElementById("oharra").value;
+        document.getElementById("jaiotzadata2").innerHTML = document.getElementById("jaiotzadata").value;
+        document.getElementById("probintzia2").innerHTML = probintzia.options[probintzia.selectedIndex].value;
+        document.getElementById("kamiseta2").innerHTML = aukeratutakoa;
+        document.getElementById("federatua2").innerHTML = txt;
+        document.getElementById("mendi2").innerHTML = aukeratutakoa3;
+        document.getElementById("ordaindu").innerHTML = preziototala + " euro";
+        document.getElementById("deskontu").innerHTML = deskontua + " deskontuarekin";
+
+        if ((preziototala >= 1) && (preziototala <= 5)) {
+            /*document.getElementById("ordaindu").style.backgroundColor = "green";*/
+            document.getElementById("deskontu").style.backgroundColor = "green";
+        } else if ((preziototala >= 6) && (preziototala <= 10)) {
+            /*document.getElementById("ordaindu").style.backgroundColor = "yellow";*/
+            document.getElementById("deskontu").style.backgroundColor = "yellow";
+        } else if ((preziototala >= 11) && (preziototala <= 20)) {
+            /*document.getElementById("ordaindu").style.backgroundColor = "pink";*/
+            document.getElementById("deskontu").style.backgroundColor = "pink";
+        }
+
+    }
+
+    function konprobatuNAN(NAN) {
+        var expresioa = /[0-9]{8}[A-Za-z]{1}/;
+        if (NAN.match(expresioa)) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+    function desagertu() {
+        document.getElementById("datuak").style.visibility = "hidden";
+    }
+    function agertu() {
+        document.getElementById("datuak").style.visibility = "visible";
+    }
+
+</script>
+
+<body onload="desagertu()">
+    <h1>MENDI MARTXA ERREGISTROA</h1>
+    <legend><i>Erregistrorako datuak:</i></legend>
+    <br>
+    <fieldset>
+        <p>Derrigorrezko eremuak <span style="color: red;">*</span> batekin markatuta daude.</p>
+        <p>Opariak <span style="color: green;">*</span> batekin markatuta daude.</p>
+    </fieldset>
+    <br>
+    <label>Izen-abizenak:</label>
+    <input type="text" id="izen-abizenak" maxlength="200" pattern="[A-Z][a-z ]" title="Letrak sartu behar dituzu">
+    <br>
+    <br>
+    <label>NAN:</label>
+    <span style="color: red;">*</span>
+    <input type="text" id="nan" required="" maxlength="9" minlength="9" pattern="[0-9]{8}[A-Za-z]{1}"
+        title="8 zenbaki eta letra 1 izan behar ditu">
+    <br>
+    <br>
+    <label>Herria:</label>
+    <input type="text" id="herria">
+    <br>
+    <br>
+    <label>Probintzia:</label>
+    <select id="probintzia">
+        <option>Araba</option>
+        <option>Gipuzkoa</option>
+        <option selected>Bizkaia</option>
+        <option>Nafarroa</option>
+        <option>Lapurdi</option>
+        <option>Zuberoa</option>
+        <option>Nafarroa behera</option>
+    </select>
+    <br>
+    <br>
+    <label>Kamiseta:</label>
+    <span style="color: green;">*</span>
+    <input type="radio" id="XS" name="kamiseta" value="XS">
+    <label>XS</label>
+    <input type="radio" id="S" name="kamiseta" value="S">
+    <label>S</label>
+    <input type="radio" id="M" name="kamiseta" value="M" checked>
+    <label>M</label>
+    <input type="radio" id="L" name="kamiseta" value="L">
+    <label>L</label>
+    <input type="radio" id="XL" name="kamiseta" value="XL">
+    <label>XL</label>
+    <input type="radio" id="XXL" name="kamiseta" value="XXL">
+    <label>XXL</label>
+    <br>
+    <br>
+    <label>Jaiotze urtea:</label>
+    <span style="color: red;">*</span>
+    <input type="text" id="jaiotzadata" required="" maxlength="4" max="2020" min="1900">
+    <br>
+    <br>
+    <label>Aukera:</label>
+    <span style="color: red;">*</span>
+    <input type="radio" name="mendia" id="martxa" value="Mendi martxa">
+    <label>Mendi martxa (12 euro)</label>
+    <input type="radio" name="mendia" id="lasterketa" value="Mendi lasterketa">
+    <label>Mendi lasterketa (20 euro)</label>
+    <br>
+    <br>
+    <form>
+        <label>Federatua:</label>
+        <input type="checkbox" id="aukera" name="aukera" value="Bai">
+        <label>BAI</label>
+        <input type="checkbox" id="aukera" name="aukera" value="Ez">
+        <label>EZ</label>
+    </form>
+    <br>
+    <br>
+    <label>Oharrak:</label>
+    <textarea id="oharra"></textarea>
+    <br>
+    <br>
+    <button onclick="funtzioa(),konprobatuNAN()">Erreserbatu</button>
+    <button onclick="agertu()">Datuak ikusi</button>
+    <div id="datuak">
+
+        <h1>Datuak</h1>
+
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <label>Izen-abizenak:</label>
+                    </td>
+                    <td>
+                        <p id="izenabizen2"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>NAN:</label>
+                    </td>
+                    <td>
+                        <p id="nan2"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Herria:</label>
+                    </td>
+                    <td>
+                        <p id="herria2"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Probintzia:</label>
+                    </td>
+                    <td>
+                        <p id="probintzia2"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Kamiseta:</label>
+                    </td>
+                    <td>
+                        <p id="kamiseta2"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Jaiotze urtea:</label>
+                    </td>
+                    <td>
+                        <p id="jaiotzadata2"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Aukera:</label>
+                    </td>
+                    <td>
+                        <p id="mendi2"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Federatua:</label>
+                    </td>
+                    <td>
+                        <p id="federatua2"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Oharrak:</label>
+                    </td>
+                    <td>
+                        <p id="oharra2"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Ordaintzekoa:</label>
+                    </td>
+                    <td>
+                        <p id="ordaindu"></p>
+                        <p id="deskontu"></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</body>
+
+</html>
