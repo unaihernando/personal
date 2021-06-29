@@ -1,0 +1,218 @@
+body{
+    background-color: goldenrod;
+}
+.pro { 
+    color: blue;
+    text-align: center;
+    background-image: url('https://www.bing.com/th?id=OIP.sOAr3DNARKGoNMsrN99OzAHaDt&w=300&h=150&c=7&o=5&pid=1.7');
+    white-space: pre;
+}
+.datu {
+    color: brown;
+    text-align: center;
+    background-image: url('https://www.bing.com/th?id=OIP.B3ElDCcg7M4G9E4oakJcHgHaEK&w=300&h=168&c=7&o=5&pid=1.7');
+    white-space: pre;
+}
+
+nav {
+    border: 2px solid black;
+    background-color: green;
+    position: sticky;
+    top: 0px;
+    padding: 3px;
+    
+}
+nav th a {
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-bottom: 3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+aside {
+    float: right;
+    padding: 2%;
+}
+
+aside ul {
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 4%;
+    margin: 2%;
+    background-color: ghostwhite;
+}
+
+aside li a {
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-bottom: 3;
+}
+.lehen {
+    list-style-type: upper-alpha;
+    float: left;
+    text-emphasis:initial;
+    padding: 1%;
+    width: 25%;
+    border-radius: 8px;
+}
+.hasiera{
+    font-size: larger;
+}
+.google{
+    float: right;
+    width: 46px;
+    height: 44px;
+   
+}
+.jokalariak{
+    border: 3px solid black;
+    width: 87%;
+}
+.jokalariak thead th{
+    border: 1px solid black;
+    color: aliceblue;
+    background-color: black;
+}
+.jokalariak tbody th{
+    border: 3px solid black;
+}
+.jokalariak tbody td{
+    border: 3px solid black;
+}
+.jokalariak tfoot td{
+    border:3px solid black;
+}
+.gehi{
+    background-color: blueviolet;
+}
+.gustua{
+    font-family: cursive;
+    width: 85%;
+    background-color:yellowgreen;
+}
+.estadioak{
+    border: 3px solid navy;
+    width: 90%;
+    text-align: center;
+    font-family: fantasy;
+}
+.estadioak thead th{
+    border: 2px solid firebrick;
+    color: aliceblue;
+    background-color: green;
+}
+.estadioak tbody td{
+    border: 1px solid navy;
+}
+.champs{
+    float: right;
+    width: 30%;
+    padding: 3%;
+}
+.champ{
+    float: left;
+    width: 25%;
+    padding: 3%;
+}
+.erdia{
+    text-align: center;
+}
+.mende{
+    float: right;
+    width: 55%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.mende table{
+    border: 1px dashed orangered;
+    font-size: smaller;
+}
+.mende th{
+    border: 2px solid white;
+}
+.mende td{
+    border: 2px solid white;
+}
+.eki{
+    float: left;
+    width: 25%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.eki table{
+    border: 1px dashed orangered;
+    font-size: smaller;
+}
+.eki th{
+    border: 2px solid white;
+}
+.eki td{
+    border: 2px solid white;
+}
+.euro{
+    float: right;
+    width: 10%;
+}
+.euro table{
+    border: 2px ridge white;
+    font-family: fantasy;
+}
+.euro th{
+    border: 2px solid brown;
+}
+.euro td{
+    border: 2px solid brown;
+}
+.acb{
+    float: right;
+    width: 50%;
+    font-family: cursive;
+    font-size: x-large;
+}
+.acb table{
+    border: 10px solid black;
+    border-spacing: 10px;
+    border-style: double;
+}
+.acb th{
+    border: 2px solid red;
+}
+.acb td{
+    border: 2px solid red;
+}
+.play{
+    background-color: green;
+}
+.esp{
+    float: right;
+    width: 30%;
+    padding: 3%;
+    border-radius: 50%;
+}
+.esl{
+    float: left;
+    margin: 5%;
+    width: 50%;
+}
+.mundi{
+    float: right;
+    width: 50%;
+}
+.vince{
+    width: 40%;
+}
+.behe{
+    border: 2px solid black;
+    background-color: rgba(172, 255, 47, 0.596);
+    float: left;
+    width: 100%;
+}
+.jjoo1992{
+    float: left;
+    margin: 2%;
+}
