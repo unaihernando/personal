@@ -1,0 +1,15 @@
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\bin\Debug\Kalkulagailu.exe.config
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\bin\Debug\Kalkulagailu.exe
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\bin\Debug\Kalkulagailu.pdb
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\bin\Debug\Kalkulagailu.xml
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\bin\Debug\kalkulagailuDLL.dll
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\bin\Debug\kalkulagailuDLL.pdb
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\bin\Debug\kalkulagailuDLL.xml
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\obj\Debug\Kalkulagailu.vbproj.AssemblyReference.cache
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\obj\Debug\Kalkulagailu.Resources.resources
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\obj\Debug\Kalkulagailu.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\obj\Debug\Kalkulagailu.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\obj\Debug\Kalkulagailu.vbproj.CopyComplete
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\obj\Debug\Kalkulagailu.exe
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\obj\Debug\Kalkulagailu.xml
+C:\Users\IN2DAM\source\repos\Kalkulagailu\Kalkulagailu\obj\Debug\Kalkulagailu.pdb

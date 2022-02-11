@@ -1,0 +1,11 @@
+C:\Users\IN2DAM\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\IN2DAM\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\IN2DAM\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\IN2DAM\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.xml
+C:\Users\IN2DAM\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.AssemblyReference.cache
+C:\Users\IN2DAM\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.Resources.resources
+C:\Users\IN2DAM\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\IN2DAM\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.xml
+C:\Users\IN2DAM\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

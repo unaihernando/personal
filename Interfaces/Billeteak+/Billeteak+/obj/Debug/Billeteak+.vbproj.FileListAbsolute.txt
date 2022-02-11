@@ -1,0 +1,11 @@
+C:\Users\IN2DAM\source\repos\Billeteak+\Billeteak+\bin\Debug\Billeteak+.exe.config
+C:\Users\IN2DAM\source\repos\Billeteak+\Billeteak+\bin\Debug\Billeteak+.exe
+C:\Users\IN2DAM\source\repos\Billeteak+\Billeteak+\bin\Debug\Billeteak+.pdb
+C:\Users\IN2DAM\source\repos\Billeteak+\Billeteak+\bin\Debug\Billeteak+.xml
+C:\Users\IN2DAM\source\repos\Billeteak+\Billeteak+\obj\Debug\Billeteak_.Resources.resources
+C:\Users\IN2DAM\source\repos\Billeteak+\Billeteak+\obj\Debug\Billeteak+.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\Billeteak+\Billeteak+\obj\Debug\Billeteak+.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\Billeteak+\Billeteak+\obj\Debug\Billeteak+.exe
+C:\Users\IN2DAM\source\repos\Billeteak+\Billeteak+\obj\Debug\Billeteak+.xml
+C:\Users\IN2DAM\source\repos\Billeteak+\Billeteak+\obj\Debug\Billeteak+.pdb
+C:\Users\IN2DAM\source\repos\Billeteak+\Billeteak+\obj\Debug\Billeteak+.vbproj.AssemblyReference.cache

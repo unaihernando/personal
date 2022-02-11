@@ -1,0 +1,13 @@
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\bin\Debug\Botoiak.exe.config
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\bin\Debug\Botoiak.exe
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\bin\Debug\Botoiak.pdb
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\bin\Debug\Botoiak.xml
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\obj\Debug\Botoiak.vbproj.AssemblyReference.cache
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\obj\Debug\Botoiak.Form1.resources
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\obj\Debug\Botoiak.Resources.resources
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\obj\Debug\Botoiak.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\obj\Debug\Botoiak.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\obj\Debug\Botoiak.exe
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\obj\Debug\Botoiak.xml
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\obj\Debug\Botoiak.pdb
+C:\Users\IN2DAM\source\repos\Botoiak\Botoiak\obj\Debug\Botoiak.Form2.resources

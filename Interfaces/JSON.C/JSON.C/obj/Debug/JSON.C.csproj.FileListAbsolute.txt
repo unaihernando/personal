@@ -1,0 +1,13 @@
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\bin\Debug\JSON.C.exe.config
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\bin\Debug\JSON.C.exe
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\bin\Debug\JSON.C.pdb
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\obj\Debug\JSON.C.csproj.AssemblyReference.cache
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\obj\Debug\JSON.C.Form1.resources
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\obj\Debug\JSON.C.Properties.Resources.resources
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\obj\Debug\JSON.C.csproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\obj\Debug\JSON.C.csproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\obj\Debug\JSON.C.csproj.CopyComplete
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\obj\Debug\JSON.C.exe
+C:\Users\IN2DAM\source\repos\JSON.C\JSON.C\obj\Debug\JSON.C.pdb

@@ -1,0 +1,11 @@
+C:\Users\IN2DAM\source\repos\PasahitzaApurtzaile\PasahitzaApurtzaile\bin\Debug\PasahitzaApurtzaile.exe.config
+C:\Users\IN2DAM\source\repos\PasahitzaApurtzaile\PasahitzaApurtzaile\bin\Debug\PasahitzaApurtzaile.exe
+C:\Users\IN2DAM\source\repos\PasahitzaApurtzaile\PasahitzaApurtzaile\bin\Debug\PasahitzaApurtzaile.pdb
+C:\Users\IN2DAM\source\repos\PasahitzaApurtzaile\PasahitzaApurtzaile\bin\Debug\PasahitzaApurtzaile.xml
+C:\Users\IN2DAM\source\repos\PasahitzaApurtzaile\PasahitzaApurtzaile\obj\Debug\PasahitzaApurtzaile.vbproj.AssemblyReference.cache
+C:\Users\IN2DAM\source\repos\PasahitzaApurtzaile\PasahitzaApurtzaile\obj\Debug\PasahitzaApurtzaile.Resources.resources
+C:\Users\IN2DAM\source\repos\PasahitzaApurtzaile\PasahitzaApurtzaile\obj\Debug\PasahitzaApurtzaile.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\PasahitzaApurtzaile\PasahitzaApurtzaile\obj\Debug\PasahitzaApurtzaile.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\PasahitzaApurtzaile\PasahitzaApurtzaile\obj\Debug\PasahitzaApurtzaile.exe
+C:\Users\IN2DAM\source\repos\PasahitzaApurtzaile\PasahitzaApurtzaile\obj\Debug\PasahitzaApurtzaile.xml
+C:\Users\IN2DAM\source\repos\PasahitzaApurtzaile\PasahitzaApurtzaile\obj\Debug\PasahitzaApurtzaile.pdb

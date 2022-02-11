@@ -1,0 +1,78 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="ErronkaSGE.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 361px;
+        }
+        .auto-style3 {
+            width: 361px;
+            height: 26px;
+        }
+        .auto-style4 {
+            height: 26px;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table class="auto-style1">
+                <tr>
+                    <td class="auto-style2">ERRONKA</td>
+                    <td>
+                        &nbsp;<asp:Image ID="Image1" runat="server" Height="78px" ImageUrl="~/Irudiak/amboto.jpg" Width="113px" />
+                        <asp:LoginName ID="LoginName1" runat="server" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:LoginStatus ID="LoginStatus1" runat="server" LoginText="saioa hasi" LogoutAction="Redirect"
+                            LogoutPageUrl="~/Orrialdeak/login.aspx" LogoutText="itxi saioa" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">
+                        <asp:Menu ID="Menu1" runat="server" BackColor="#FFFBD6" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#990000" StaticSubMenuIndent="10px">
+                            <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+                            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <DynamicMenuStyle BackColor="#FFFBD6" />
+                            <DynamicSelectedStyle BackColor="#FFCC66" />
+                            <Items>
+                                <asp:MenuItem Text="Produktuak ikusi" Value="Produktuak ikusi" NavigateUrl="~/Orrialdeak/ProduktuakBistaratu.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Erregistroak gehitu" Value="Erregistroak gehitu" NavigateUrl="~/Orrialdeak/ErregistroakGehitu.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Erregistroak aldatu" Value="Erregistroak aldatu" NavigateUrl="~/Orrialdeak/ErregistroakAldatu.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Erregistroak ezabatu" Value="Erregistroak ezabatu" NavigateUrl="~/Orrialdeak/ErregistroaEzabatu.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Orden_IDak" Value="Orden_IDak" NavigateUrl="~/Orrialdeak/OrdenID.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Customer taula" Value="Customer taula" NavigateUrl="~/Orrialdeak/CustomerTaula.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Customer Ezabatu" Value="Customer Ezabatu" NavigateUrl="~/Orrialdeak/AjaxEzabatu.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Amigos bistaratu" Value="Amigos bistaratu" NavigateUrl="~/Orrialdeak/AmigosBistaratu.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Customer kolorea" Value="Customer kolorea" NavigateUrl="~/Orrialdeak/Koloreak.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="detaileak" Value="produktuen prezioa" NavigateUrl="~/Orrialdeak/Detaileak.aspx"></asp:MenuItem>
+                            </Items>
+                            <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+                            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <StaticSelectedStyle BackColor="#FFCC66" />
+                        </asp:Menu>
+                    </td>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style3">2DM3D</td>
+                    <td class="auto-style4"></td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

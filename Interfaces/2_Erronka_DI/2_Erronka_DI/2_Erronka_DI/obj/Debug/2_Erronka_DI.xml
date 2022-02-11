@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+2_Erronka_DI
+</name>
+</assembly>
+<members>
+<member name="T:_2_Erronka_DI.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:_2_Erronka_DI.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:_2_Erronka_DI.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.ClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.FacturasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.GenerosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.Lineas_FacDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.LocalidadesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.PeliculasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.ProvinciasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.VendedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.ClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.FacturasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.GenerosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.Lineas_FacRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.LocalidadesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.PeliculasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.ProvinciasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.VendedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.ClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.FacturasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.GenerosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.Lineas_FacRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.LocalidadesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.PeliculasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.ProvinciasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSet.VendedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSetTableAdapters.ClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSetTableAdapters.FacturasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSetTableAdapters.GenerosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSetTableAdapters.Lineas_FacTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSetTableAdapters.LocalidadesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSetTableAdapters.PeliculasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSetTableAdapters.ProvinciasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSetTableAdapters.VendedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:_2_Erronka_DI.EMPRESADataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(_2_Erronka_DI.EMPRESADataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:_2_Erronka_DI.EMPRESADataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(_2_Erronka_DI.EMPRESADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:_2_Erronka_DI.EMPRESADataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(_2_Erronka_DI.EMPRESADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:_2_Erronka_DI.EMPRESADataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:_2_Erronka_DI.EMPRESADataSetTableAdapters.TableAdapterManager.UpdateAll(_2_Erronka_DI.EMPRESADataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:_2_Erronka_DI.EMPRESADataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

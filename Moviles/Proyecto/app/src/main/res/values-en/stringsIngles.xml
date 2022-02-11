@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="main">Login</string>
+    <string name="main2">Main Screen</string>
+    <string name="listaTareas">List Of Tasks</string>
+    <string name="mainacerca">Information</string>
+    <string name="tareaNueva">Creating New Task</string>
+    <string name="tarea">Task Information</string>
+    <string name="cambiocontra">Change Password</string>
+    <string name="acercaDe">About</string>
+    <string name="nuevaTarea">New Task</string>
+    <string name="otros">Other</string>
+    <string name="hechas">Done</string>
+    <string name="nohechas">Not Done</string>
+    <string name="hecha">Done</string>
+    <string name="nohecha">Not Done</string>
+    <string name="entrar">Enter</string>
+    <string name="nombre">Name</string>
+    <string name="fecha">Date</string>
+    <string name="descripcion">Description</string>
+    <string name="prioridad">Priority</string>
+    <string name="coste">Cost</string>
+    <string name="resgistrar">Register</string>
+    <string name="cancelar">Cancel</string>
+    <string name="estado">Task Status</string>
+    <string name="crear">Create New Task</string>
+    <string name="lista">List Task</string>
+    <string name="contraseña">Password</string>
+    <string name="contraseñaNueva">New Password</string>
+    <string name="usuario">User</string>
+    <string name="cambio">Change</string>
+    <string name="exito">Password Successfully Changed</string>
+    <string name="contraMal">Incorrect Password</string>
+    <string name="borrar">Delete</string>
+    <string name="modificar">Update</string>
+    <string name="borrada">Task deleted</string>
+    <string name="actualizar">Refresh</string>
+    <string name="urgente">Urgent</string>
+    <string name="alta">High</string>
+    <string name="media">Medium</string>
+    <string name="baja">Low</string>
+    <string name="usuarioCreado">New User Created</string>
+    <string name="errorUsuario">Username And Password Do Not Match</string>
+    <string name="quienes">Who are we?</string>
+    <string name="info">In this section we put at your disposal a series of personal contacts.
+        So in case you have any questions or suggestions for improvement on the application
+        have the possibility of contacting us at all times and through different platforms.</string>
+    <string name="clicarFecha">Click to select date</string>
+    <string name="tareaMal">Task not completed</string>
+    <string name="guardarTarea">Task saved</string>
+    <string name="volver">Back</string>
+    <string name="borrarS">Are you sure to delete the task?</string>
+    <string name="sesion">Log off</string>
+    <string name="boton">Change Color Buttons</string>
+    <string name="gmail">Gmail</string>
+    <string name="dtm">Changed Data</string>
+    <string name="tyr">Task Already Done</string>
+</resources>

@@ -1,0 +1,531 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+imformeak
+</name>
+</assembly>
+<members>
+<member name="T:imformeak.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:imformeak.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:imformeak.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.CategoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.EmployeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Order_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.OrderDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.ShippersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.SuppliersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.VBDotNetShippersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Category_Sales_for_1995DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Current_Product_ListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.InvoicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Order_Details_ExtendedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Order_SubtotalsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Product_Sales_for_1995DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Products_Above_Average_PriceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Quarterly_OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_CategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_Category_1994DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_Category_1995DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_Category_1996DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Ten_Most_Expensive_ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.CategoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.EmployeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Order_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.OrderDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.ShippersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.SuppliersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.VBDotNetShippersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Category_Sales_for_1995Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Current_Product_ListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.InvoicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Order_Details_ExtendedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Order_SubtotalsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Product_Sales_for_1995Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Products_Above_Average_PriceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Quarterly_OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_CategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_Category_1994Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_Category_1995Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_Category_1996Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Ten_Most_Expensive_ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.CategoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.EmployeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Order_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.OrderDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.ShippersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.SuppliersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.VBDotNetShippersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Category_Sales_for_1995RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Current_Product_ListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.InvoicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Order_Details_ExtendedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Order_SubtotalsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Product_Sales_for_1995RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Products_Above_Average_PriceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Quarterly_OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_CategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_Category_1994RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_Category_1995RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Sales_by_Category_1996RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSet.Ten_Most_Expensive_ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.CategoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.CustomersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.EmployeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Order_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.OrderDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.ShippersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.SuppliersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.VBDotNetShippersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Category_Sales_for_1995TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Current_Product_ListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.InvoicesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Order_Details_ExtendedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Order_SubtotalsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Product_Sales_for_1995TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Products_Above_Average_PriceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Quarterly_OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Sales_by_CategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Sales_by_Category_1994TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Sales_by_Category_1995TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Sales_by_Category_1996TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.Ten_Most_Expensive_ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:imformeak.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(imformeak.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:imformeak.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(imformeak.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:imformeak.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(imformeak.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:imformeak.NorthwindDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:imformeak.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateAll(imformeak.NorthwindDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:imformeak.NorthwindDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

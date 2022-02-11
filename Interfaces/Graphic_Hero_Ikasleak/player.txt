@@ -1,0 +1,7 @@
+Ander
+20
+45
+110
+health_potion
+6
+2

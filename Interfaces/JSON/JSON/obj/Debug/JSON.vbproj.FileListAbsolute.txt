@@ -1,0 +1,12 @@
+C:\Users\IN2DAM\source\repos\JSON\JSON\bin\Debug\JSON.exe.config
+C:\Users\IN2DAM\source\repos\JSON\JSON\bin\Debug\JSON.exe
+C:\Users\IN2DAM\source\repos\JSON\JSON\bin\Debug\JSON.pdb
+C:\Users\IN2DAM\source\repos\JSON\JSON\bin\Debug\JSON.xml
+C:\Users\IN2DAM\source\repos\JSON\JSON\obj\Debug\JSON.vbproj.AssemblyReference.cache
+C:\Users\IN2DAM\source\repos\JSON\JSON\obj\Debug\JSON.Form1.resources
+C:\Users\IN2DAM\source\repos\JSON\JSON\obj\Debug\JSON.Resources.resources
+C:\Users\IN2DAM\source\repos\JSON\JSON\obj\Debug\JSON.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\JSON\JSON\obj\Debug\JSON.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\JSON\JSON\obj\Debug\JSON.exe
+C:\Users\IN2DAM\source\repos\JSON\JSON\obj\Debug\JSON.xml
+C:\Users\IN2DAM\source\repos\JSON\JSON\obj\Debug\JSON.pdb

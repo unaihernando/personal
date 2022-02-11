@@ -1,0 +1,15 @@
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\bin\Debug\GraduakFarenheitDll.exe.config
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\bin\Debug\GraduakFarenheitDll.exe
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\bin\Debug\GraduakFarenheitDll.pdb
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\bin\Debug\GraduakFarenheitDll.xml
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\bin\Debug\ClassLibrary1.dll
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\bin\Debug\ClassLibrary1.pdb
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\bin\Debug\ClassLibrary1.xml
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\obj\Debug\GraduakFarenheitDll.vbproj.AssemblyReference.cache
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\obj\Debug\GraduakFarenheitDll.Resources.resources
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\obj\Debug\GraduakFarenheitDll.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\obj\Debug\GraduakFarenheitDll.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\obj\Debug\GraduakFarenheitDll.vbproj.CopyComplete
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\obj\Debug\GraduakFarenheitDll.exe
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\obj\Debug\GraduakFarenheitDll.xml
+C:\Users\IN2DAM\source\repos\GraduakFarenheitDll\GraduakFarenheitDll\obj\Debug\GraduakFarenheitDll.pdb

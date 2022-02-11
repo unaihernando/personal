@@ -1,0 +1,531 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DataFormularioa
+</name>
+</assembly>
+<members>
+<member name="T:DataFormularioa.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DataFormularioa.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DataFormularioa.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.CategoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.EmployeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Order_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.OrderDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.ShippersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.SuppliersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.VBDotNetShippersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Category_Sales_for_1995DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Current_Product_ListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.InvoicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Order_Details_ExtendedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Order_SubtotalsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Product_Sales_for_1995DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Products_Above_Average_PriceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Quarterly_OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_CategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_Category_1994DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_Category_1995DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_Category_1996DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Ten_Most_Expensive_ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.CategoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.EmployeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Order_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.OrderDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.ShippersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.SuppliersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.VBDotNetShippersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Category_Sales_for_1995Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Current_Product_ListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.InvoicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Order_Details_ExtendedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Order_SubtotalsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Product_Sales_for_1995Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Products_Above_Average_PriceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Quarterly_OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_CategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_Category_1994Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_Category_1995Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_Category_1996Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Ten_Most_Expensive_ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.CategoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.EmployeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Order_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.OrderDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.ShippersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.SuppliersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.VBDotNetShippersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Category_Sales_for_1995RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Current_Product_ListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.InvoicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Order_Details_ExtendedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Order_SubtotalsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Product_Sales_for_1995RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Products_Above_Average_PriceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Quarterly_OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_CategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_Category_1994RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_Category_1995RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Sales_by_Category_1996RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSet.Ten_Most_Expensive_ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.CategoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.CustomersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.EmployeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Order_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.OrderDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.ShippersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.SuppliersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.VBDotNetShippersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Category_Sales_for_1995TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Current_Product_ListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.InvoicesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Order_Details_ExtendedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Order_SubtotalsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Product_Sales_for_1995TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Products_Above_Average_PriceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Quarterly_OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Sales_by_CategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Sales_by_Category_1994TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Sales_by_Category_1995TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Sales_by_Category_1996TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.Ten_Most_Expensive_ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DataFormularioa.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DataFormularioa.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DataFormularioa.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DataFormularioa.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DataFormularioa.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DataFormularioa.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DataFormularioa.NorthwindDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DataFormularioa.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateAll(DataFormularioa.NorthwindDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DataFormularioa.NorthwindDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

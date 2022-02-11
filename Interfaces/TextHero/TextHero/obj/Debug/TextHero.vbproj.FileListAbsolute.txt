@@ -1,0 +1,11 @@
+C:\Users\IN2DAM\source\repos\TextHero\TextHero\bin\Debug\TextHero.exe.config
+C:\Users\IN2DAM\source\repos\TextHero\TextHero\bin\Debug\TextHero.exe
+C:\Users\IN2DAM\source\repos\TextHero\TextHero\bin\Debug\TextHero.pdb
+C:\Users\IN2DAM\source\repos\TextHero\TextHero\bin\Debug\TextHero.xml
+C:\Users\IN2DAM\source\repos\TextHero\TextHero\obj\Debug\TextHero.vbproj.AssemblyReference.cache
+C:\Users\IN2DAM\source\repos\TextHero\TextHero\obj\Debug\TextHero.Resources.resources
+C:\Users\IN2DAM\source\repos\TextHero\TextHero\obj\Debug\TextHero.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\TextHero\TextHero\obj\Debug\TextHero.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\TextHero\TextHero\obj\Debug\TextHero.exe
+C:\Users\IN2DAM\source\repos\TextHero\TextHero\obj\Debug\TextHero.xml
+C:\Users\IN2DAM\source\repos\TextHero\TextHero\obj\Debug\TextHero.pdb

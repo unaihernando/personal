@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB0FDEA2-338B-4262-811C-6FC0F842AA9D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>_2_Erronka_DI.My.MyApplication</StartupObject>
+    <RootNamespace>_2_Erronka_DI</RootNamespace>
+    <AssemblyName>2_Erronka_DI</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>2_Erronka_DI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>2_Erronka_DI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bilatu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bilatu.Designer.vb">
+      <DependentUpon>Bilatu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatasetEzabatu.Designer.vb">
+      <DependentUpon>DatasetEzabatu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DatasetEzabatu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatuakTextboxen.Designer.vb">
+      <DependentUpon>DatuakTextboxen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DatuakTextboxen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPRESADataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EMPRESADataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ErregistrotikIbili.Designer.vb">
+      <DependentUpon>ErregistrotikIbili.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ErregistrotikIbili.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ezabatu.Designer.vb">
+      <DependentUpon>Ezabatu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ezabatu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eguneratu.Designer.vb">
+      <DependentUpon>Eguneratu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eguneratu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="datak.Designer.vb">
+      <DependentUpon>datak.vb</DependentUpon>
+    </Compile>
+    <Compile Include="datak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bezeroFaktura.Designer.vb">
+      <DependentUpon>bezeroFaktura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bezeroFaktura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Erlazioak.Designer.vb">
+      <DependentUpon>Erlazioak.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Erlazioak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioNagusia.Designer.vb">
+      <DependentUpon>FormularioNagusia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioNagusia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneroPelikula.Designer.vb">
+      <DependentUpon>GeneroPelikula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GeneroPelikula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saltzaileak.Designer.vb">
+      <DependentUpon>Saltzaileak.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Saltzaileak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Txertatu.Designer.vb">
+      <DependentUpon>Txertatu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Txertatu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="XjarriXkendu.Designer.vb">
+      <DependentUpon>XjarriXkendu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XjarriXkendu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XMLGorde.Designer.vb">
+      <DependentUpon>XMLGorde.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XMLGorde.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bilatu.resx">
+      <DependentUpon>Bilatu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="datak.resx">
+      <DependentUpon>datak.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatasetEzabatu.resx">
+      <DependentUpon>DatasetEzabatu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatuakTextboxen.resx">
+      <DependentUpon>DatuakTextboxen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Erlazioak.resx">
+      <DependentUpon>Erlazioak.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErregistrotikIbili.resx">
+      <DependentUpon>ErregistrotikIbili.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ezabatu.resx">
+      <DependentUpon>Ezabatu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eguneratu.resx">
+      <DependentUpon>Eguneratu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bezeroFaktura.resx">
+      <DependentUpon>bezeroFaktura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormularioNagusia.resx">
+      <DependentUpon>FormularioNagusia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneroPelikula.resx">
+      <DependentUpon>GeneroPelikula.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saltzaileak.resx">
+      <DependentUpon>Saltzaileak.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Txertatu.resx">
+      <DependentUpon>Txertatu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XjarriXkendu.resx">
+      <DependentUpon>XjarriXkendu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XMLGorde.resx">
+      <DependentUpon>XMLGorde.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="EMPRESADataSet1.xsc">
+      <DependentUpon>EMPRESADataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="EMPRESADataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EMPRESADataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EMPRESADataSet1.xss">
+      <DependentUpon>EMPRESADataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="EMPRESA.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="XML\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

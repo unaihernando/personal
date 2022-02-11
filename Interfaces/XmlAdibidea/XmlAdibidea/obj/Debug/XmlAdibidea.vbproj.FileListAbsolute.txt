@@ -1,0 +1,12 @@
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\bin\Debug\XmlAdibidea.exe.config
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\bin\Debug\XmlAdibidea.exe
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\bin\Debug\XmlAdibidea.pdb
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\bin\Debug\XmlAdibidea.xml
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\obj\Debug\XmlAdibidea.vbproj.AssemblyReference.cache
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\obj\Debug\XmlAdibidea.Form1.resources
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\obj\Debug\XmlAdibidea.Resources.resources
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\obj\Debug\XmlAdibidea.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\obj\Debug\XmlAdibidea.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\obj\Debug\XmlAdibidea.exe
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\obj\Debug\XmlAdibidea.xml
+C:\Users\IN2DAM\source\repos\XmlAdibidea\XmlAdibidea\obj\Debug\XmlAdibidea.pdb

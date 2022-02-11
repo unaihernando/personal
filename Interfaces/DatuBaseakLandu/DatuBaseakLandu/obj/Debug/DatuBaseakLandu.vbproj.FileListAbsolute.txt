@@ -1,0 +1,13 @@
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\bin\Debug\TFNOS.MDB
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\bin\Debug\DatuBaseakLandu.exe.config
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\bin\Debug\DatuBaseakLandu.exe
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\bin\Debug\DatuBaseakLandu.pdb
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\bin\Debug\DatuBaseakLandu.xml
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\obj\Debug\DatuBaseakLandu.vbproj.AssemblyReference.cache
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\obj\Debug\DatuBaseakLandu.Form1.resources
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\obj\Debug\DatuBaseakLandu.Resources.resources
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\obj\Debug\DatuBaseakLandu.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\obj\Debug\DatuBaseakLandu.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\obj\Debug\DatuBaseakLandu.exe
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\obj\Debug\DatuBaseakLandu.xml
+C:\Users\IN2DAM\source\repos\DatuBaseakLandu\DatuBaseakLandu\obj\Debug\DatuBaseakLandu.pdb

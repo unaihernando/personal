@@ -1,0 +1,12 @@
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\bin\Debug\Kriptografia.exe.config
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\bin\Debug\Kriptografia.exe
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\bin\Debug\Kriptografia.pdb
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\bin\Debug\Kriptografia.xml
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\obj\Debug\Kriptografia.vbproj.AssemblyReference.cache
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\obj\Debug\Kriptografia.Form1.resources
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\obj\Debug\Kriptografia.Resources.resources
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\obj\Debug\Kriptografia.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\obj\Debug\Kriptografia.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\obj\Debug\Kriptografia.exe
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\obj\Debug\Kriptografia.xml
+C:\Users\IN2DAM\source\repos\Kriptografia\Kriptografia\obj\Debug\Kriptografia.pdb

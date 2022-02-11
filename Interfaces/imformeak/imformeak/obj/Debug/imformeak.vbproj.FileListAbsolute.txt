@@ -1,0 +1,13 @@
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\bin\Debug\App_Data\Northwind.mdb
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\bin\Debug\imformeak.exe.config
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\bin\Debug\imformeak.exe
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\bin\Debug\imformeak.pdb
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\bin\Debug\imformeak.xml
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\obj\Debug\imformeak.vbproj.AssemblyReference.cache
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\obj\Debug\imformeak.Form1.resources
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\obj\Debug\imformeak.Resources.resources
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\obj\Debug\imformeak.vbproj.GenerateResource.cache
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\obj\Debug\imformeak.vbproj.CoreCompileInputs.cache
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\obj\Debug\imformeak.exe
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\obj\Debug\imformeak.xml
+C:\Users\infegaritagoitia\Desktop\Dam3\imformeak\imformeak\obj\Debug\imformeak.pdb

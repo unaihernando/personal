@@ -1,0 +1,13 @@
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\bin\Debug\App_Data\Northwind.mdb
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\bin\Debug\DataFormularioa.exe.config
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\bin\Debug\DataFormularioa.exe
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\bin\Debug\DataFormularioa.pdb
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\bin\Debug\DataFormularioa.xml
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\obj\Debug\DataFormularioa.vbproj.AssemblyReference.cache
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\obj\Debug\DataFormularioa.Form1.resources
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\obj\Debug\DataFormularioa.Resources.resources
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\obj\Debug\DataFormularioa.vbproj.GenerateResource.cache
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\obj\Debug\DataFormularioa.vbproj.CoreCompileInputs.cache
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\obj\Debug\DataFormularioa.exe
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\obj\Debug\DataFormularioa.xml
+C:\Users\infegaritagoitia\Desktop\Dam3\Datak\DataFormularioa\DataFormularioa\obj\Debug\DataFormularioa.pdb

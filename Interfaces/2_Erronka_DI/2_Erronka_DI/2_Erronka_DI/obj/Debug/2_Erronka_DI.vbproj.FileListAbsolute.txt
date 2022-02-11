@@ -1,0 +1,119 @@
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\App_Data\EMPRESA.mdb
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe.config
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.pdb
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.xml
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.AssemblyReference.cache
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Form1.resources
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Resources.resources
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.GenerateResource.cache
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.CoreCompileInputs.cache
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.exe
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.xml
+G:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.pdb
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe.config
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.pdb
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.xml
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Resources.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.GenerateResource.cache
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.exe
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.xml
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.pdb
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\App_Data\EMPRESA.mdb
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe.config
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.pdb
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.xml
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Form1.resources
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Resources.resources
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.GenerateResource.cache
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.CoreCompileInputs.cache
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.exe
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.xml
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.pdb
+D:\2021-22 Kurtsoa\2 DI-SGE_ERRONKA\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Bilatu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Txertatu.resources
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe.config
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.pdb
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.xml
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.AssemblyReference.cache
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Bilatu.resources
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Resources.resources
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Txertatu.resources
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.GenerateResource.cache
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.CoreCompileInputs.cache
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.exe
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.xml
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.pdb
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Ezabatu.resources
+G:\2021-22 Kurtsoa\arazoa insert\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Eguneratu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Ezabatu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Eguneratu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.datak.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.bezeroFaktura.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe.config
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\bin\Debug\2_Erronka_DI.pdb
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\bin\Debug\2_Erronka_DI.xml
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Bilatu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\_2_Erronka_DI.datak.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Ezabatu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Eguneratu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\_2_Erronka_DI.bezeroFaktura.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\_2_Erronka_DI.GeneroaZerrenda.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Resources.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Txertatu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.GenerateResource.cache
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\2_Erronka_DI.exe
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\2_Erronka_DI.xml
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI - copia\2_Erronka_DI\obj\Debug\2_Erronka_DI.pdb
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.GeneroaZerrenda.resources
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe.config
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.pdb
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.xml
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.AssemblyReference.cache
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Bilatu.resources
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.datak.resources
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Ezabatu.resources
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Eguneratu.resources
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.bezeroFaktura.resources
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Resources.resources
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Txertatu.resources
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.GenerateResource.cache
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.CoreCompileInputs.cache
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.exe
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.xml
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.pdb
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\bin\Debug\EMPRESA.mdb
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Form1.resources
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Saltzaileak.resources
+C:\Users\infegaritagoitia\Desktop\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.XMLGorde.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\bin\Debug\EMPRESA.mdb
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe.config
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.exe
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.pdb
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\bin\Debug\2_Erronka_DI.xml
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Bilatu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.datak.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Ezabatu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Eguneratu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.bezeroFaktura.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Resources.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Saltzaileak.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.Txertatu.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.XMLGorde.resources
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.GenerateResource.cache
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.vbproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.exe
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.xml
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\2_Erronka_DI.pdb
+C:\Users\Esteban\Desktop\2 DI-SGE_ERRONKA\bertsioa\2_Erronka_DI\2_Erronka_DI\obj\Debug\_2_Erronka_DI.GeneroPelikula.resources

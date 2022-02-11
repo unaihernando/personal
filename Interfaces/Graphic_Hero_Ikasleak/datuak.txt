@@ -1,0 +1,6 @@
+Izena: sfj
+Erasoa: 150
+Bizia: 194
+Dirua: 126
+Nibela: 3
+Items: health_potion --> 6

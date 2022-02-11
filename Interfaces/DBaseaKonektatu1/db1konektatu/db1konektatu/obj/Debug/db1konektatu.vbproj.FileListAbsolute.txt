@@ -1,0 +1,13 @@
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\bin\Debug\App_Data\Northwind.mdb
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\bin\Debug\db1konektatu.exe.config
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\bin\Debug\db1konektatu.exe
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\bin\Debug\db1konektatu.pdb
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\bin\Debug\db1konektatu.xml
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\obj\Debug\db1konektatu.vbprojAssemblyReference.cache
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\obj\Debug\db1konektatu.Form1.resources
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\obj\Debug\db1konektatu.Resources.resources
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\obj\Debug\db1konektatu.vbproj.GenerateResource.cache
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\obj\Debug\db1konektatu.vbproj.CoreCompileInputs.cache
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\obj\Debug\db1konektatu.exe
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\obj\Debug\db1konektatu.xml
+C:\Users\infegaritagoitia\Desktop\DBaseaKonektatu1\db1konektatu\db1konektatu\obj\Debug\db1konektatu.pdb

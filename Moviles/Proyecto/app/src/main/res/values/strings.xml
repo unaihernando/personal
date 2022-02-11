@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="main">Inicio De Sesión</string>
+    <string name="cambiocontra">Cambio Contraseña</string>
+    <string name="main2">Pantalla Principal</string>
+    <string name="listaTareas">Listado De Las Tareas</string>
+    <string name="mainacerca">Información</string>
+    <string name="tareaNueva">Creación de Nueva Tarea</string>
+    <string name="tarea">Información Sobre La Tarea</string>
+    <string name="acercaDe">Acerca De</string>
+    <string name="nuevaTarea">Nueva Tarea</string>
+    <string name="otros">Otros</string>
+    <string name="hechas">Realizadas</string>
+    <string name="nohechas">No Realizadas</string>
+    <string name="hecha">Realizada</string>
+    <string name="nohecha">No Realizada</string>
+    <string name="entrar">Entrar</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha">Fecha</string>
+    <string name="descripcion">Descripción</string>
+    <string name="prioridad">Prioridad</string>
+    <string name="coste">Coste</string>
+    <string name="resgistrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="estado">Estado De La Tarea</string>
+    <string name="crear">Crear Nueva Tarea</string>
+    <string name="lista">Listar Tareas</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="contraseñaNueva">Nueva Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="cambio">Cambiar</string>
+    <string name="exito">Contraseña cambiada con éxito</string>
+    <string name="contraMal">Contraseña incorrecta</string>
+    <string name="borrar">Borrar</string>
+    <string name="modificar">Modificar</string>
+    <string name="borrada">Tarea eliminida</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="urgente">Urgente</string>
+    <string name="alta">Alta</string>
+    <string name="media">Media</string>
+    <string name="baja">Baja</string>
+    <string name="usuarioCreado">Usuario Nuevo Creado</string>
+    <string name="errorUsuario">Usuario Y Contraseña No Coinciden</string>
+    <string name="quienes">¿Quienes somos?</string>
+    <string name="info">En este apartado ponemos a su disposición una serie de contactos personales.
+            Así en caso de tener alguna duda o sugerencia de mejora  sobre la aplicación tengan
+            la posibilidad de contactar con nosotros en todo momento y a través de diferentes
+            plataformas.</string>
+    <string name="clicarFecha">Clicar para seleccionar fecha</string>
+    <string name="tareaMal">Tarea no completada</string>
+    <string name="guardarTarea">Tarea guardada</string>
+    <string name="volver">Volver</string>
+    <string name="borrarS">¿Esta seguro de borrar la tarea?</string>
+    <string name="sesion">Cerrar Sesión</string>
+    <string name="boton">Cambiar Color Botones</string>
+    <string name="gmail">Gmail</string>
+    <string name="dtm">Datos Modificados</string>
+    <string name="tyr">Tarea Ya Realizada</string>
+</resources>
